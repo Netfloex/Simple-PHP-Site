@@ -2,5 +2,5 @@
     "views": "views",
     "public": "public",
     "stylesInput": "less/index.less",
-    "stylesOutput": "public/css/app.css"
+    "stylesOutput": "css/app.css"
 }
